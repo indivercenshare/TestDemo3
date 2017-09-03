@@ -4,4 +4,7 @@ public class Test {
 	System.out.println("MASTER");
 	System.out.println("MASTER2");
 }
+	static void print(){
+		System.out.println("FEATURE#01");
+	}
 }
